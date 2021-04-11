@@ -1,7 +1,7 @@
 <?php
 
 // Change to true, if you want to use database for operations
-const WITH_DB = true;
+const WITH_DB = false;
 
 // Db credentials
 const SERVER = 'localhost';
